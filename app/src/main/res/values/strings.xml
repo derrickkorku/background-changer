@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Background Changer</string>
+    <string name="title">Maharishi Internation University</string>
+    <string name="set_gb_color">Set Background Color</string>
+    <string name="miu_logo_alt_text">MIU Logo</string>
+</resources>
